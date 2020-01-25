@@ -1,4 +1,6 @@
 # git_starter
 This README file is created for testing purposes.
 This is a change in clone.
-test fetch
+test fetch and merge.
+test pull.
+
